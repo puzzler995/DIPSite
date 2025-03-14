@@ -25,3 +25,19 @@
     margin-left: 15px;
     color: #333;
 }
+
+header .button {
+    color: #000;
+    background: linear-gradient(#20e43e, #16aa2d);
+    border: 1px solid #2fd700;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: none;
+}
+
+@media print, screen and (max-width: 480px) {
+    header .button {
+        display: flex;
+    }
+}
