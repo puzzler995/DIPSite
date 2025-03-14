@@ -4,3 +4,7 @@
 
 layout: default
 ---
+
+Welcome! Our site is still under construction. In the mean time, check us out using your favorite podcast app, or on Bluesky or Discord!
+
+![Logo](../assets/images/logo.png)
