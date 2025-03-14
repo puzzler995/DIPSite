@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#banner {
+    background: #ffffff;
+    border-color: #777d78;
+}
+
+#banner .button {
+    background: linear-gradient(#20e43e, #16aa2d);
+    border: 1px solid #2fd700;
+}
+
+#banner .button:hover {
+    background: #20e43e;
+}
+
+#banner ul li a.button {
+    background-color: #20e43e;
+}
+
+#banner .downloads span {
+    margin-left: 15px;
+    color: #333;
+}
